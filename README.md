@@ -5,9 +5,6 @@
 
 Below are some of the various projects I've worked on-- feel free to reach out to connect!
 
-Best regards,
-Sitara Hariharan
-
 ```
 Programming Languages: Python, R
 Data Manipulation and Analysis: Pandas, NumPy
