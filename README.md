@@ -19,5 +19,7 @@ Database Management: SQL
 
 __Description:__ Over the course of 6 weeks, through rigorous data cleaning and exploratory analysis, we aimed to analyze the most influential factors on migration patterns to Texas counties. Using Microsoft Excel and RStudio, we conducted linear regression, constructed residual plots, and conducted influential analysis on multiple predictor variables. As a result, we were able to identify the three most influential factors and obtain an accurate regression model.
 
-#### Repository Link: 
+#### Link: 
+
+### Project 2: Texas Migration Analysis
 
