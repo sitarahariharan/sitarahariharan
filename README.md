@@ -1,4 +1,6 @@
-> 👋 Hi, I’m Sitara! I'm a Data Science student at the University of Texas at Dallas set to graduate in December 2025, and I'm passionate about machine learning, quantitative finance, and building data-driven solutions hope to combine my analytical skills with my interest in financial markets by working with financial data. work in the world of finance. This is where I showcase my data science projects and demonstrate my skills in data analysis, machine learning, and statistical modeling. I'm currently seeking internship/co-op opportunities for Spring/Summer 2025, and this portfolio serves as a comprehensive overview of my expertise.
+> 👋 Hi, I’m Sitara! I'm a Data Science student at the University of Texas at Dallas set to graduate in December 2025, and I'm passionate about machine learning, quantitative finance, and building data-driven solutions hope to combine my analytical skills with my interest in financial markets by working with financial data. work in the world of finance.
+>
+> I'm currently seeking internship/co-op opportunities for Spring/Summer 2025, and this portfolio serves as a comprehensive overview of my expertise in data analysis, machine learning, and statistical modeling.
 
 ## 💡 Technical Experience:
 - Machine Learning & Deep Learning (PyTorch, TensorFlow, scikit-learn)
