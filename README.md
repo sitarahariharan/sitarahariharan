@@ -1,25 +1,22 @@
-> 👋 Hi, I’m Sitara! I'm a current junior studying Data Science at the University of Texas at Dallas, and hoping to work in financial data analytics one day. This is where I showcase my data science projects and demonstrate my skills in data analysis, machine learning, and statistical modeling. I am actively seeking internships for Summer/Fall 2024, and this portfolio serves as a comprehensive overview of my expertise.
+> 👋 Hi, I’m Sitara! I'm a Data Science student at the University of Texas at Dallas set to graduate in December 2025, and I'm passionate about machine learning, quantitative finance, and building data-driven solutions hope to combine my analytical skills with my interest in financial markets by working with financial data. work in the world of finance. This is where I showcase my data science projects and demonstrate my skills in data analysis, machine learning, and statistical modeling. I'm currently seeking internship/co-op opportunities for Spring/Summer 2025, and this portfolio serves as a comprehensive overview of my expertise.
 
+## 💡 Technical Experience:
+- Machine Learning & Deep Learning (PyTorch, TensorFlow, scikit-learn)
+- Data Analysis & Visualization (Python, R, Tableau, Power BI)
+- Financial Computing & Analytics
+- Full-Stack Development
+
+## 📚 Featured Projects:
+Check out my pinned repositories below to see some of my work in:
+- Credit Risk Modeling
+- Healthcare Analytics
+- Portfolio Optimization
+- Customer Segmentation + Behavior Analysis
+
+## 📫 Let's Connect:
 - LinkedIn: https://www.linkedin.com/in/sitara-hariharan/
 - Email: sitara.hariharan@gmail.com
 
 Below are some of the various projects I've worked on-- feel free to reach out to connect!
-
-```
-Programming Languages: Python, R
-Data Manipulation and Analysis: Pandas, NumPy
-Data Visualization: Matplotlib, Seaborn, Plotly
-Statistical Analysis: Hypothesis testing, Regression analysis
-Database Management: SQL
-```
-
-## Projects
-
-### Project 1: Texas Migration Analysis
-
-__Description:__ Over the course of 6 weeks, through rigorous data cleaning and exploratory analysis, we aimed to analyze the most influential factors on migration patterns to Texas counties. Using Microsoft Excel and RStudio, we conducted linear regression, constructed residual plots, and conducted influential analysis on multiple predictor variables. As a result, we were able to identify the three most influential factors and obtain an accurate regression model.
-
-#### Link: 
-
 ### Project 2: Texas Migration Analysis
 
