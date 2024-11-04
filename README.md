@@ -18,7 +18,3 @@ Check out my pinned repositories below to see some of my work in:
 ## 📫 Let's Connect:
 - LinkedIn: https://www.linkedin.com/in/sitara-hariharan/
 - Email: sitara.hariharan@gmail.com
-
-Below are some of the various projects I've worked on-- feel free to reach out to connect!
-### Project 2: Texas Migration Analysis
-
