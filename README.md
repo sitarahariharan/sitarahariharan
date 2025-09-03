@@ -1,20 +1,21 @@
-> 👋 Hi, I’m Sitara! I'm a Data Science student at the University of Texas at Dallas set to graduate in December 2025, and I'm passionate about machine learning, quantitative finance, and building data-driven solutions hope to combine my analytical skills with my interest in financial markets by working with financial data. work in the world of finance.
->
-> I'm currently seeking internship/co-op opportunities for Spring/Summer 2025, and this portfolio serves as a comprehensive overview of my expertise in data analysis, machine learning, and statistical modeling.
+👋 Hi, I’m Sitara!
+- 🎓 **B.S. Data Science (UT Dallas, May 2025)**
+- 💻 **Data Scientist & Engineer | ML • Data Engineering • Analytics**
 
-## 💡 Technical Experience:
-- Machine Learning & Deep Learning (PyTorch, TensorFlow, scikit-learn)
-- Data Analysis & Visualization (Python, R, Tableau, Power BI)
-- Financial Computing & Analytics
-- Full-Stack Development
+## 🚀 About Me
+Data-driven problem solver with experience in regulatory reporting, ML research, and analytics consulting. I enjoy building end-to-end pipelines, dashboards, and models that turn complex data into real-world impact.
 
-## 📚 Featured Projects:
-Check out my pinned repositories below to see some of my work in:
-- Credit Risk Modeling
-- Healthcare Analytics
-- Portfolio Optimization
-- Customer Segmentation + Behavior Analysis
+## 💼 Experience
+- **West Monroe (2025)** → Migrated regulatory reports to Databricks SQL, authored onboarding docs, built Streamlit/Tableau dashboards
+- **Capstone Project @ Living in Silico** → Implemented MolGAN for drug discovery, boosted efficiency 25%
+- **Sunwater Institute (2025)** → NLP + LLM insights for legislative tracking
+- **CBRE (2024)** → Automated Tableau dashboards (–50% manual reporting), built property value forecasting model (98% accuracy)
 
-## 📫 Let's Connect:
-- LinkedIn: https://www.linkedin.com/in/sitara-hariharan/
-- Email: sitara.hariharan@gmail.com
+## 📊 Featured Projects
+- **Loan Applicant Risk Model** → Logistic regression + chatbot (97% accuracy)
+- **Texas Migration Analysis** → R regression on 10M+ records
+- **Personal Finance Forecast** → PostgreSQL + Power BI for budgeting insights
+
+## 🛠️ Skills
+- **SQL, Python, R, Databricks, TensorFlow, PyTorch, Tableau, Power BI, Azure DevOps, Git**
+- **Certifications:** TensorFlow Professional Developer Certificate, Databricks Associate Data Engineer Certificate
